@@ -6,4 +6,10 @@ junto al resto de ramas (contenido, conclusión y bibliografía) en este mismo arc
 
 Con esto se pondrá en práctica lo aprendido sobre el trabajo en equipo en Git.
 =======
+
 Contenido
+
+Conclusion
+Esta es la conclusion primera parte
+
+Esta es la segunda parte de conclusion.
