@@ -5,3 +5,5 @@ es una rama creada para la presentación de la introducción, que posteriormente s
 junto al resto de ramas (contenido, conclusión y bibliografía) en este mismo archivo .txt.
 
 Con esto se pondrá en práctica lo aprendido sobre el trabajo en equipo en Git.
+=======
+Contenido
