@@ -1,3 +1,11 @@
+INTRODUCCIÓN:
+
+En este documento se presentará lo aprendido a lo largo del curso de Git, por lo cual ésta
+es una rama creada para la presentación de la introducción, que posteriormente se acoplará
+junto al resto de ramas (contenido, conclusión y bibliografía) en este mismo archivo .txt.
+
+Con esto se pondrá en práctica lo aprendido sobre el trabajo en equipo en Git.
+
 Contenido
 
 Erase una vez un tio Pablo, que queria ser ayudante...
